@@ -77,3 +77,11 @@ if expected3 == o3:
     print("!!!Test Case 3 Passed Successfully!!!")
 else:
     print("!!!Test Case 3 Failed!!!")
+
+'''
+OUTPUT:
+{'Wednesday': -2, 'Thursday': 4, 'Friday': 6, 'Saturday': 8, 'Sunday': 2, 'Monday': -6, 'Tuesday': 2}
+!!!Test Case 1 Passed Successfully!!!
+!!!Test Case 2 Passed Successfully!!!
+!!!Test Case 3 Passed Successfully!!!
+'''
